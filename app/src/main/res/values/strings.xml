@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My second app</string>
+    <string name="hello_bugdroid">Hello Bugdroid</string>
+    <string name="enfant"><![CDATA[==> Enfant]]></string>
+    <string name="parent"><![CDATA[==> Parent]]></string>
+    <string name="inscription">INSCRIPTION :</string>
+    <string name="login">Login :</string>
+    <string name="password">Password :</string>
+    <string name="email">Email :</string>
+    <string name="valider_le_formulaire">Valider le formulaire</string>
+    <string name="little_star">little star</string>
+    <string name="vers_la_liste">Vers la liste</string>
+    <string name="save">Save</string>
+    <string name="read">Read</string>
+    <string name="temp">Temp</string>
+    <string name="ecrire"><![CDATA[==> Ecrire !]]></string>
+    <string name="lire"><![CDATA[==> Lire]]></string>
+    <string name="lire_ce_login"><![CDATA[==> Lire ce Login]]></string>
+    <string name="site_heh_dst"><![CDATA[==> Site HEH - DST]]></string>
+</resources>
